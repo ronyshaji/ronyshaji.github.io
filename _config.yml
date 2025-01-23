@@ -1,0 +1,27 @@
+title: Rony Shaji
+url: "https://ronyshaji.github.io/"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Education"
+   link: "Education"
+ - name: "Experience"
+   link: "Experience"
+ - name: "Projects"
+   link: "Projects"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
