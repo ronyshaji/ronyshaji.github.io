@@ -5,7 +5,7 @@ is_contact: true
 
 You can reach me via:
 
-* Email: [xxx@gmail.com](mailto:xxx@gmail.com.com)
+* Email: [ronyshaji1@gmail.com](mailto:ronyshaji1@gmail.com.com)
 
 * Linkedin: [linkedin.com/in/ronyshaji](https://de.linkedin.com/in/ronyshaji)
 
