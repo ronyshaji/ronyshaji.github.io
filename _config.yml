@@ -1,6 +1,6 @@
 title: Rony Shaji
 url: "https://ronyshaji.github.io/"
-baseurl: ""
+baseurl: "https://ronyshaji.github.io/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -13,8 +13,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
  - name: "Education"
    link: "Education"
  - name: "Experience"
