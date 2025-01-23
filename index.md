@@ -11,7 +11,7 @@ layout: default
 <br>
 <br>
 <br>
-I am a recent Master's graduate in Automotive Engineering from **Technische Hochschule Ingolstadt**. I am passionate about autonomous driving and enjoy coding in C++. Currently, I am working as a research assistant, focusing on ADAS simulation and V2X communication. In this role, I develop and implement a software stack written in C++ for optimal communication between cars and infrastructure. I also work with various hardware components, such as sensors (LIDAR, cameras), Roadside Units (RSU), and embedded devices.
+I am a recent Master's graduate in Automotive Engineering from **Technische Hochschule Ingolstadt**. I am passionate about autonomous driving and enjoy coding in C++. I am currently working as a research assistant, focusing on ADAS simulation and V2X communication. In this role, I develop and implement a software stack written in C++ for optimal communication between cars and infrastructure. I also work with various hardware components, such as sensors (LIDAR, cameras), Roadside Units (RSU), and embedded devices.
 
 With over 2 years of experience in software development, I have worked with agile software development teams and used tools like Git, JIRA, CMake, Jenkins, and more. Participating in code reviews, sprint meetings, real-time troubleshooting, and software deployment excites me greatly.
 
