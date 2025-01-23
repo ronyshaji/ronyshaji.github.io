@@ -4,9 +4,10 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="rony.jpg">
 
 **Hi, I am Rony Shaji 👋**
+<br>
 <br>
 <br>
 <br>
