@@ -1,6 +1,6 @@
 title: Rony Shaji
-url: "https://ronyshaji.github.io/"
-baseurl: "https://ronyshaji.github.io/"
+url: "https://ronyshaji.github.io"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
