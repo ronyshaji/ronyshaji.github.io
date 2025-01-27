@@ -1,5 +1,5 @@
-## **Education** ##
-
+## **Education**
+---
 ### **Master of Engineering**  
 **Technische Hochschule Ingolstadt (THI), Germany**  
 **International Automotive Engineering**  
