@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Rony Shaji
 
 <img class="profile-picture" src="rony.jpg">
 
