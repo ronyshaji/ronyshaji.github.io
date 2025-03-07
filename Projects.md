@@ -15,7 +15,7 @@ Implemented shortest path algorithms (A*) on OpenStreetMap data.
 - **YOLOv7 Object Detection (Deep Learning)** - [[GitHub]](https://github.com/ronyshaji/Number-Plate-Detection-Yolov7)  
 Designed an AI-based license plate detection system using YOLOv7.
 
-- **YouTube Video: Install CARLA Simulator on Windows** - <a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techgena" height="30" width="40" /></a><a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank">[Watch Here]</a> 
+- **YouTube Video: Install CARLA Simulator on Windows** - <a href="https://youtu.be/wdeHxZKWaIc?si=EuZKIMwSTqTM0Dho" target="blank">[Watch Here]</a> 
 
 - **Investigation of the Effect of Vehicle Color on LiDAR-Based Detection (Academic Project)**  
 Analyzed how vehicle color affects LiDAR reflectivity and detection accuracy.
