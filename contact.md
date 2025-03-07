@@ -1,9 +1,5 @@
 ## **Contact**
 ---
-layout: default
-is_contact: true
----
-
 You can reach me via:
 
 * Email: [ronyshaji1@gmail.com](mailto:ronyshaji1@gmail.com.com)
@@ -14,7 +10,8 @@ You can reach me via:
 
 ## Mailing Address
 
-Ingolstadt
+Technische Hochschule Ingolstadt
+85049, Ingolstadt
 
 ---
 
